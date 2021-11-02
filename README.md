@@ -1,2 +1,2 @@
 # graphsage_data
-Used to test
+Used for test
